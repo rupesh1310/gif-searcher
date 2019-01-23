@@ -35,3 +35,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+[![](https://img.shields.io/badge/Demo-yellow.svg?style=for-the-badge)](https://giphy1310.herokuapp.com/)
+
