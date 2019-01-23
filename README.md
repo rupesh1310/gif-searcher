@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/gifsearcher-yellow.svg?style=for-the-badge)](https://giphy1310.herokuapp.com/)
+[![](https://img.shields.io/badge/gifsearcher-demo-yellow.svg?style=for-the-badge)](https://giphy1310.herokuapp.com/)
 
 > A Single page Vue.js project
 
